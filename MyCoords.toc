@@ -1,7 +1,8 @@
 ## Interface: 30300
 ## Title: MyCoords
-## Version: 0.2.0
-## Notes: Simple Coordinate Display for Minimap
+## Version: 0.2.1
+## Notes: Simple UI Coordinate Display
 ## Author: Onyxmane (Dallas Taylor)
+## SavedVariablesPerCharacter: fr, fg, fb, fa
 MyCoords.lua
 MyCoords.xml
