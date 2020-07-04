@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: MyCoords
-## Version: 0.1.0
+## Version: 0.1.1
 ## Notes: Simple Coordinate Display for Minimap
 ## Author: Onyxmane (Dallas Taylor)
 MyCoords.lua
