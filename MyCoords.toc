@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: MyCoords
-## Version: 0.2.1
+## Version: 0.3.0
 ## Notes: Simple UI Coordinate Display
 ## Author: Onyxmane (Dallas Taylor)
 ## SavedVariablesPerCharacter: fr, fg, fb, fa
